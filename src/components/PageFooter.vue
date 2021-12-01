@@ -11,5 +11,10 @@
 </script>
 
 <style scoped>
+    div {
+        margin-top: 25px;
+        border: 1px solid black;
+        height: 75px;
+    }
 
 </style>

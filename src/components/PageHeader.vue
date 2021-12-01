@@ -11,5 +11,12 @@
 </script>
 
 <style scoped>
-
+    div {
+        display: grid;
+        place-items: center;
+        border: 1px solid black;
+        width: 100%;
+        height: 100px;
+        margin-bottom: 50px;
+    }
 </style>

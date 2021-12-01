@@ -12,4 +12,13 @@
 
 <style scoped>
 
+    div {
+     height: 600px;
+     border: 1px solid black;
+ }
+
+ h2 {
+     align-self: center;
+ }
+
 </style>

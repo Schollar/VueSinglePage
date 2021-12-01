@@ -11,5 +11,15 @@
 </script>
 
 <style scoped>
+ 
+    div {
+     position: relative;
+     height: 600px;
+     border: 1px solid black;
+ }
+
+ h2 {
+     align-self: center;
+ }
 
 </style>
