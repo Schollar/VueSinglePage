@@ -1,11 +1,7 @@
 <template>
   <div id="app">
     <page-header></page-header>
-    <page-body>
-      <side-panel></side-panel>
-      <meet-the-dev></meet-the-dev>
-      <meet-the-staff></meet-the-staff>
-    </page-body>
+    <page-body></page-body>
     <page-footer></page-footer>
   </div>
 </template>
@@ -14,6 +10,7 @@
 import PageHeader from './components/PageHeader.vue';
 import PageBody from './components/PageBody.vue';
 import PageFooter from './components/PageFooter.vue';
+
 export default {
   name: 'App',
   components: {
